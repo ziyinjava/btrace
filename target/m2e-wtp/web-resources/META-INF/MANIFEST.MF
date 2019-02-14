@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: monitor_tuning
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ziyin
+Implementation-Vendor-Id: com.imooc
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/monitor_tuning
+Created-By: Maven Integration for Eclipse
+
